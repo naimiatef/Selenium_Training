@@ -40,7 +40,7 @@
 - Info-bulle dans Selenium
 - Événements de clavier dans Selenium Actions Classe
 
-### Classe de robot
+### Classe robot
 - Qu'est-ce que Robot Class ?
 - Événements de souris dans la classe Robot
 - Événements clavier dans Robot Class
