@@ -5,7 +5,7 @@
 ### Commandes WebDriver
 - Commandes du navigateur
 - Commandes de navigation
-- Commandes WebElement
+- Commandes WebElement(List<WebElement>, findElements , Find element, ...)
 - Trouver un élément et trouver des éléments dans Selenium
 - Handle CheckBox dans Selenium WebDriver
 - Bouton radio de poignée dans Selenium WebDriver
