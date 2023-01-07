@@ -1,0 +1,2 @@
+@FindBy
+L’annotation @FindBy permet de localiser un ou plusieurs WebElements à l’aide d’un seul critère.

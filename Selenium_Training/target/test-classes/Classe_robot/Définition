@@ -1,0 +1,13 @@
+Robot Class est utilisé dans Selenium car:
+	- dans certains tests d’automatisation Selenium.
+	- les utilisateurs ont besoin de:
+contrôler le clavier ou la souris pour interagir avec les fenêtres du système d’exploitation
+telles que les fenêtres contextuelles de téléchargement, les fenêtres contextuelles d’impression, etc.
+ et les applications natives telles que le bloc-notes, la calculatrice, etc. 
+ Selenium Webdriver ne peut pas gérer ces pop-ups / applications, donc dans Java version 1.3, 
+ la classe de robot a été introduite qui peut gérer les pop-ups / applications u système d’exploitation.
+ 
+Avantages de la classe de robot
+	- Robot Class peut simuler un événement clavier et souris
+	- Robot Class peut aider à télécharger / télécharger des fichiers lors de l’utilisation du pilote Web selenium
+	- Robot Class peut facilement être intégré au cadre d’automatisation actuel (mot-clé, data-driven ou hybride)

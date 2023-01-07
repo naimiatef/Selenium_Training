@@ -1,0 +1,8 @@
+Retrouvez ci-dessous les étapes du scénario à automatiser :
+	1- URL ouverte http://demoqa.com/tool-tips
+	2- Identifier l’élément web 'div'
+	3- Générer l’action moveToElement et exécuter l’action
+	4- Identifier l’info-bulle d’affichage des éléments Web
+	5- Récupérer la valeur de l’attribut de texte
+	6- Vérifier la correspondance entre la valeur du texte de l’info-bulle et le texte attendu
+	7- Fermer la page

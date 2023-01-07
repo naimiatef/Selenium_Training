@@ -1,0 +1,7 @@
+Retrouvez ci-dessous les étapes du scénario à automatiser :
+	1- Lancez le navigateur Web et lancez notre page de pratique https://demoqa.com/droppable/
+	2- Trouvez l’élément source requis, c’est-à-dire l’objet 'Drag me to my target' dans notre exemple
+	3- Trouvez l’élément cible requis, c’est-à-dire l’objet 'Drop Here' dans notre exemple
+	4- Maintenant, faites glisser et déposez l’objet 'Faites-moi glisser vers ma cible' vers l’objet 'Drop Here'
+	5- Vérifiez le message affiché sur 'Drop Here' pour vérifier que l’élément source est déposé sur l’élément cible
+	6- Fermez le navigateur pour terminer le programme

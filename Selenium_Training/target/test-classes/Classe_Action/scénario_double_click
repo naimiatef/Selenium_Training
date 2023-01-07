@@ -1,0 +1,6 @@
+les étapes du scénario à automatiser :
+	1- Lancez le navigateur Web et lancez notre page de pratique https://demo.guru99.com/test/simple_context_menu.html
+	2- Trouvez l’élément requis, c’est-à-dire le bouton dans notre exemple et faites double clic sur l’élément
+	3- Accepter le message d’alerte
+	4- Afficher le message d'alerte
+	5- Fermez le navigateur pour terminer le programme

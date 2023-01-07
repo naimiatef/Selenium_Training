@@ -1,0 +1,9 @@
+Retrouvez ci-dessous les étapes du scénario à automatiser :
+	1- Lancez le navigateur Web et lancez notre page de pratique https://demoqa.com/menu/
+	2- Trouvez l’élément requis, c’est-à-dire l’objet 'Main Item 2' dans notre échantillon
+	3- Maintenant, déplacez la souris sur l’option 'Sub Sub List' qui affichera la liste des sous-menus
+	4- Trouvez l’élément requis, c’est-à-dire l’objet 'Sub Sub Item 2' dans la liste des sous-menus
+	5- Déplacez la souris sur l’option 'Sub Sub Item 2' qui affichera une liste de sous-menu supplémentaire
+	6- Trouvez l’élément requis, c’est-à-dire l’objet 'Alternative' dans la liste des sous-menus
+	7- Cliquez sur 'Alternative'
+	8- Fermez le navigateur pour terminer le programme

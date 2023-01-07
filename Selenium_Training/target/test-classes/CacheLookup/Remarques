@@ -1,0 +1,4 @@
+@CacheLookup est très utile pour les éléments qui ne changent pas sur la page web une fois chargés.
+ Ces types d’éléments constituent la majorité des éléments de la page Web. Donc, pour ces éléments, 
+ comme ils ne changeront pas pendant l’exécution du test, nous devrions utiliser l’annotation @Cachelookup
+  pour améliorer la vitesse de test.

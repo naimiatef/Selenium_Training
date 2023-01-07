@@ -1,0 +1,8 @@
+Retrouvez ci-dessous les étapes du scénario à automatiser :
+	1- Tout d’abord, accédez à « https://demoqa.com/text-box. »
+	2- Deuxièmement, entrez le nom complet: « M. Naimi Atef».
+	3- Troisièmement, entrez l’e-mail: « naimiatef@gmail.com»
+	4- Après cela, entrez l’adresse actuelle: « 43 School Lane London EC71 9GO ».
+	5- Cinquièmement, cliquez sur la zone de texte Adresse actuelle et copiez l’adresse actuelle.
+	6- Après cela, collez l’adresse copiée dans la zone de texte Adresse permanente.
+	7- Enfin, vérifiez que le texte de l’adresse actuelle et de l’adresse permanente est le même.

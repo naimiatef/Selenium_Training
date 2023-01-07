@@ -1,0 +1,7 @@
+Retrouvez ci-dessous les étapes du scénario à automatiser :
+	1- Lancez le navigateur Web et lancez notre page de pratique https://demoqa.com/droppable/
+	2- Trouvez l’élément source requis, c’est-à-dire l’objet 'Drag me to my target' dans notre exemple
+	3- Calculez xOffset et yOffset requis pour faire glisser l’élément source dans les directions horizontale et verticale respectivement [Pour cela, calculez xOffset en obtenant la différence entre x emplacement de l’élément source et de l’élément cible. De même, obtenez yOffset en obtenant la différence entre l’emplacement y de l’élément source et de l’élément cible]
+	4- Maintenant, faites glisser et déposez l’objet 'Faites-moi glisser vers ma cible' vers l’objet 'Drop Here'
+	5- Vérifiez le message affiché sur 'Drop Here' pour vérifier que l’élément source est déposé sur l’élément cible
+	6- Fermez le navigateur pour terminer le programme

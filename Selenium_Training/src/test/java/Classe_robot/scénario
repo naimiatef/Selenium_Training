@@ -1,0 +1,8 @@
+Retrouvez ci-dessous les étapes du scénario à automatiser :
+	1- Lancez le navigateur Web et lancez notre page de pratique https://www.zamzar.com/
+	2- Cliquez sur le bouton 'Choose Files'
+	3- Ouvre la fenêtre Boîte de dialogue
+	4- Entrez le chemin absolu du fichier : C:\atef\cas_test.docx
+	5- Cliquez sur le bouton Entrée du clavier.
+
+Prérequis : Créer un fichier C:\atef\cas_test.docx
