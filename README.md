@@ -44,3 +44,6 @@
 - Qu'est-ce que Robot Class ?
 - Événements de souris dans la classe Robot
 - Événements clavier dans Robot Class
+
+![image](https://user-images.githubusercontent.com/7100940/211356043-5096f971-5696-4a80-b95f-d3abeb4259d7.png)
+
